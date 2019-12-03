@@ -5,9 +5,9 @@ This project contains a Python program that orchestrates different events of the
 
 ## Requirements
 
-Python 3.7+
-Pip for Python 3
-Mosquitto message protocol
+- Python 3.7+
+- Pip for Python 3
+- Mosquitto message protocol
 
 ## Installing Pylosophorum
 
