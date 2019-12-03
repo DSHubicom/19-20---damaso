@@ -7,7 +7,7 @@ This project contains a Python program that orchestrates different events of the
 
 - Python 3.7+
 - Pip for Python 3
-- Mosquitto message protocol
+- Mosquitto message broker
 
 ## Installing Pylosophorum
 
